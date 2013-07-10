@@ -21,16 +21,16 @@ package org.getspout.spout.item.mcitem;
 
 import java.lang.reflect.Field;
 
-import net.minecraft.server.v1_6_R1.EntityHuman;
-import net.minecraft.server.v1_6_R1.EnumAnimation;
-import net.minecraft.server.v1_6_R1.INetworkManager;
-import net.minecraft.server.v1_6_R1.Item;
-import net.minecraft.server.v1_6_R1.ItemStack;
-import net.minecraft.server.v1_6_R1.NetworkManager;
-import net.minecraft.server.v1_6_R1.World;
+import net.minecraft.server.v1_6_R2.EntityHuman;
+import net.minecraft.server.v1_6_R2.EnumAnimation;
+import net.minecraft.server.v1_6_R2.INetworkManager;
+import net.minecraft.server.v1_6_R2.Item;
+import net.minecraft.server.v1_6_R2.ItemStack;
+import net.minecraft.server.v1_6_R2.NetworkManager;
+import net.minecraft.server.v1_6_R2.World;
 
 import org.bukkit.Bukkit;
-import org.bukkit.craftbukkit.v1_6_R1.entity.CraftPlayer;
+import org.bukkit.craftbukkit.v1_6_R2.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
 import org.getspout.spout.Spout;
